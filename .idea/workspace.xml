@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39875eca-a8c9-456a-8b19-445475e42fbf" name="Changes" comment="решено лаболаторная №2 угадай число">
-      <change afterPath="$PROJECT_DIR$/src/lab_2/GameFindNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_3/Lab_3_Aray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_1/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_1/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_1/Example2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_1/GalToLit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_2/User.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -33,18 +30,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Frontend/frontend_wk/JavaAndroid/gr_336/untitled_336_2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
-  <component name="RunManager" selected="Application.GameFindNumber">
+}]]></component>
+  <component name="RunManager" selected="Application.Lab_3_Aray">
     <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab_1.Example1" />
       <module name="untitled_336_2" />
@@ -71,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_2.Main" />
+    <configuration name="Lab_3_Aray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_3.Lab_3_Aray" />
       <module name="untitled_336_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_2.*" />
+          <option name="PATTERN" value="lab_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab_1.GalToLit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_1.GalToLit" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_2.Main" />
       <module name="untitled_336_2" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_3_Aray" />
         <item itemvalue="Application.GameFindNumber" />
         <item itemvalue="Application.Example1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.lab_2.User" />
-        <item itemvalue="Application.lab_1.GalToLit" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +127,14 @@
       <option name="presentableId" value="Default" />
       <updated>1649963598528</updated>
     </task>
+    <task id="LOCAL-00001" summary="решено лаболаторная №2 угадай число">
+      <created>1650139455735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650139455735</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
