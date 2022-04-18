@@ -9,7 +9,7 @@ import java.util.Scanner;
 
     public class Example1 {
 
-
+        //Лаболаторная №1
         public static void main(String[] args) {
             class InsNum {
                 public int insNumb;
@@ -22,27 +22,24 @@ import java.util.Scanner;
 
 
             InsNum num_int = new InsNum();
-
-
             for (int i = 1; i <= 3; i++) {
                 Scanner scanner = new Scanner(System.in);
 
                 switch (i) {
-
-                    case 1:
-                        System.out.println(i+"=    Write fist number =");
+                    case 1 -> {
+                        System.out.println(i + "=    Введите первое число =");
                         num_int.insNumb1 = scanner.nextInt();
-                        break;
-                    case 2:
-                        System.out.println(i+"=     Write second number");
+                    }
+                    case 2 -> {
+                        System.out.println(i + "=     Write second number");
                         num_int.insNumb2 = scanner.nextInt();
-                        break;
-                    case 3:
-                        System.out.println(i+"=     Write third number");
+                    }
+                    case 3 -> {
+                        System.out.println(i + "=     Write third number");
                         num_int.insNumb3 = scanner.nextInt();
-                        break;
-                    default:
-                        break;
+                    }
+                    default -> {
+                    }
                 }
 
                 //return (InsNum.insNumb1 + InsNum.insNumb2 + InsNum.insNumb3);

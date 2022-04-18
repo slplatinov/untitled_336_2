@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39875eca-a8c9-456a-8b19-445475e42fbf" name="Changes" comment="решено лаболаторная №2 угадай число">
-      <change afterPath="$PROJECT_DIR$/src/lab_3/Lab_3_Aray.java" afterDir="false" />
+    <list default="true" id="39875eca-a8c9-456a-8b19-445475e42fbf" name="Changes" comment="решено лаболаторная №3 Лаболаторная №3; дан массив с элементами [2, 3, 4, 5]. С помощью цикла for найдите произведение элементов данного массива.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_1/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_1/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_3/Lab_3_Aray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_3/Lab_3_Aray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_3_Aray">
+  <component name="RunManager" selected="Application.Example1">
     <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab_1.Example1" />
       <module name="untitled_336_2" />
@@ -110,9 +111,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example1" />
         <item itemvalue="Application.Lab_3_Aray" />
         <item itemvalue="Application.GameFindNumber" />
-        <item itemvalue="Application.Example1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.lab_2.User" />
       </list>
@@ -134,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650139455735</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="решено лаболаторная №3 Лаболаторная №3; дан массив с элементами [2, 3, 4, 5]. С помощью цикла for найдите произведение элементов данного массива.">
+      <created>1650304885207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650304885207</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +172,7 @@
     <MESSAGE value="ex1" />
     <MESSAGE value="решено лаболаторная №1" />
     <MESSAGE value="решено лаболаторная №2 угадай число" />
-    <option name="LAST_COMMIT_MESSAGE" value="решено лаболаторная №2 угадай число" />
+    <MESSAGE value="решено лаболаторная №3 Лаболаторная №3; дан массив с элементами [2, 3, 4, 5]. С помощью цикла for найдите произведение элементов данного массива." />
+    <option name="LAST_COMMIT_MESSAGE" value="решено лаболаторная №3 Лаболаторная №3; дан массив с элементами [2, 3, 4, 5]. С помощью цикла for найдите произведение элементов данного массива." />
   </component>
 </project>

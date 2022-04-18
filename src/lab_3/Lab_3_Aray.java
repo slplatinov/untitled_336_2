@@ -11,6 +11,8 @@ public class Lab_3_Aray {
               sum = sum*massive_lab3[i];
 
       }
+
+
         System.out.println(sum);
     }
 
