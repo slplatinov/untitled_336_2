@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06e508f-a1ce-453b-a78e-b30ed0b2ca11" name="Changes" comment="решено лаболаторная №3 Лаболаторная №3; дан массив с элементами [2, 3, 4, 5]. С помощью цикла for найдите произведение элементов данного массива.">
-      <change beforePath="$PROJECT_DIR$/src/lab_1/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_1/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_3/Lab_3_Aray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_3/Lab_3_Aray.java" afterDir="false" />
+    <list default="true" id="b06e508f-a1ce-453b-a78e-b30ed0b2ca11" name="Changes" comment="Решено лаболаторная №3">
+      <change afterPath="$PROJECT_DIR$/src/lab_5/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +30,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Frontend/frontend_wk/JavaAndroid/gr_336/untitled_336_2&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Frontend/frontend_wk/JavaAndroid/gr_336/untitled_336_2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
-  <component name="RunManager" selected="Application.Lab_3_Aray">
+}]]></component>
+  <component name="RunManager" selected="Application.Person">
     <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab_1.Example1" />
       <module name="untitled_336_2" />
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab_2.User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_2.User" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_5.Person" />
       <module name="untitled_336_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_2.*" />
+          <option name="PATTERN" value="lab_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,18 +110,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.Lab_3_Aray" />
         <item itemvalue="Application.GameFindNumber" />
         <item itemvalue="Application.Example1" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.lab_2.User" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="39875eca-a8c9-456a-8b19-445475e42fbf" name="Changes" comment="" />
+      <changelist id="b06e508f-a1ce-453b-a78e-b30ed0b2ca11" name="Changes" comment="Решено лаболаторная №3" />
       <created>1649963598528</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -134,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650139455735</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Решено лаболаторная №3">
+      <created>1650308097580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650308097580</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +171,7 @@
     <MESSAGE value="ex1" />
     <MESSAGE value="решено лаболаторная №1" />
     <MESSAGE value="решено лаболаторная №2 угадай число" />
-    <option name="LAST_COMMIT_MESSAGE" value="решено лаболаторная №2 угадай число" />
+    <MESSAGE value="Решено лаболаторная №3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решено лаболаторная №3" />
   </component>
 </project>
