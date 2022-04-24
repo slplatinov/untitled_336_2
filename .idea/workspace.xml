@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06e508f-a1ce-453b-a78e-b30ed0b2ca11" name="Changes" comment="Решено лаболаторная №3">
-      <change afterPath="$PROJECT_DIR$/src/lab_5/Person.java" afterDir="false" />
+    <list default="true" id="b06e508f-a1ce-453b-a78e-b30ed0b2ca11" name="Changes" comment="Решено лаболаторная №5">
+      <change afterPath="$PROJECT_DIR$/src/lab_6/Aspirant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,20 +35,20 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Frontend/frontend_wk/JavaAndroid/gr_336/untitled_336_2",
+    "last_opened_file_path": "D:/Frontend/frontend_wk/JavaAndroid/gr_336/untitled_336_1",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Person">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_1.Example1" />
+  <component name="RunManager" selected="Application.Aspirant">
+    <configuration name="Aspirant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_6.Aspirant" />
       <module name="untitled_336_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_1.*" />
+          <option name="PATTERN" value="lab_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,19 +82,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_2.Main" />
-      <module name="untitled_336_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab_5.Person" />
       <module name="untitled_336_2" />
@@ -108,13 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="University" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_6.University" />
+      <module name="untitled_336_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aspirant" />
+        <item itemvalue="Application.University" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.Lab_3_Aray" />
         <item itemvalue="Application.GameFindNumber" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650308097580</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Решено лаболаторная №5">
+      <created>1650391303922</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650391303922</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +179,7 @@
     <MESSAGE value="решено лаболаторная №1" />
     <MESSAGE value="решено лаболаторная №2 угадай число" />
     <MESSAGE value="Решено лаболаторная №3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решено лаболаторная №3" />
+    <MESSAGE value="Решено лаболаторная №5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решено лаболаторная №5" />
   </component>
 </project>
