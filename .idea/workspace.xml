@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06e508f-a1ce-453b-a78e-b30ed0b2ca11" name="Changes" comment="Решено лаболаторная №5">
-      <change afterPath="$PROJECT_DIR$/src/lab_6/Aspirant.java" afterDir="false" />
+    <list default="true" id="b06e508f-a1ce-453b-a78e-b30ed0b2ca11" name="Changes" comment="Решено лаболаторная №7">
+      <change afterPath="$PROJECT_DIR$/src/lab_7/lab_Biblioteka/AdminBibl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_7/lab_Biblioteka/Biblioteka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_7/lab_Biblioteka/BookBibl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_7/lab_Biblioteka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_7/lab_Biblioteka/ReaderBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,14 +39,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Frontend/frontend_wk/JavaAndroid/gr_336/untitled_336_1",
+    "last_opened_file_path": "D:/Frontend/frontend_wk/JavaAndroid/gr_336/untitled_336_2/src/lab_7/lab_Biblioteka",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aspirant">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Frontend\frontend_wk\JavaAndroid\gr_336\untitled_336_2\src\lab_7\lab_Biblioteka" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Aspirant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab_6.Aspirant" />
       <module name="untitled_336_2" />
@@ -56,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GameFindNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_2.GameFindNumber" />
+    <configuration name="Lab_3_Aray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_3.Lab_3_Aray" />
       <module name="untitled_336_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_2.*" />
+          <option name="PATTERN" value="lab_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_3_Aray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_3.Lab_3_Aray" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_7.lab_Biblioteka.Main" />
       <module name="untitled_336_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_3.*" />
+          <option name="PATTERN" value="lab_7.lab_Biblioteka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Aspirant" />
         <item itemvalue="Application.University" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.Lab_3_Aray" />
-        <item itemvalue="Application.GameFindNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650391303922</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Решено лаболаторная №6">
+      <created>1650812438151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650812438151</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +196,8 @@
     <MESSAGE value="решено лаболаторная №2 угадай число" />
     <MESSAGE value="Решено лаболаторная №3" />
     <MESSAGE value="Решено лаболаторная №5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решено лаболаторная №5" />
+    <MESSAGE value="Решено лаболаторная №6" />
+    <MESSAGE value="Решено лаболаторная №7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решено лаболаторная №7" />
   </component>
 </project>
