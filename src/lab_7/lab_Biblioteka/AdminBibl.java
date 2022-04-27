@@ -1,6 +1,6 @@
 package lab_7.lab_Biblioteka;
 
-public class AdminBibl {
+public class AdminBibl implements Biblioteka {
     String adm;
 
 
