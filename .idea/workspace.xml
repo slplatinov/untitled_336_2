@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06e508f-a1ce-453b-a78e-b30ed0b2ca11" name="Changes" comment="Решено лаболаторная №7">
+    <list default="true" id="b06e508f-a1ce-453b-a78e-b30ed0b2ca11" name="Changes" comment="Решено лаболаторная №7 изм+">
+      <change afterPath="$PROJECT_DIR$/src/lab_8/File_out_in.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_7/lab_Biblioteka/AdminBibl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_7/lab_Biblioteka/AdminBibl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Frontend/frontend_wk/JavaAndroid/gr_336/untitled_336_2/src/lab_7/lab_Biblioteka",
+    "last_opened_file_path": "D:/Frontend/frontend_wk/JavaAndroid/gr_336/untitled_336_1",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -47,7 +47,7 @@
       <recent name="D:\Frontend\frontend_wk\JavaAndroid\gr_336\untitled_336_2\src\lab_7\lab_Biblioteka" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.File_out_in">
     <configuration name="Aspirant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab_6.Aspirant" />
       <module name="untitled_336_2" />
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_3_Aray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_3.Lab_3_Aray" />
+    <configuration name="File_out_in" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_8.File_out_in" />
       <module name="untitled_336_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_3.*" />
+          <option name="PATTERN" value="lab_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.File_out_in" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Aspirant" />
         <item itemvalue="Application.University" />
         <item itemvalue="Application.Person" />
-        <item itemvalue="Application.Lab_3_Aray" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651056625966</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Решено лаболаторная №7 изм+">
+      <created>1651056837819</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651056837819</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +208,7 @@
     <MESSAGE value="Решено лаболаторная №5" />
     <MESSAGE value="Решено лаболаторная №6" />
     <MESSAGE value="Решено лаболаторная №7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решено лаболаторная №7" />
+    <MESSAGE value="Решено лаболаторная №7 изм+" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решено лаболаторная №7 изм+" />
   </component>
 </project>
