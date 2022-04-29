@@ -45,8 +45,8 @@ public class File_out_in {
             //______________________________________________________
             //_____ copy___paste
 
-       /*     try(FileInputStream fin=new FileInputStream("D:/Frontend/frontend_wk/JavaAndroid/gr_336/in_out/notes1.txt");
-                FileOutputStream fos=new FileOutputStream("D:/Frontend/frontend_wk/JavaAndroid/gr_336/in_out/notes2.txt"))
+            try(FileInputStream fin=new FileInputStream("D:/Frontend/frontend_wk/JavaAndroid/gr_336/in_out/notes1.txt");
+                FileOutputStream fos=new FileOutputStream("D:/Frontend/frontend_wk/JavaAndroid/gr_336/in_out/notes2.txt",true);)
             {
                 byte[] buffer = new byte[fin.available()];
                 // считываем буфер
@@ -55,8 +55,10 @@ public class File_out_in {
                 //FileWriter("notes1.txt",boolean append) throws IOException;
                 fos.write(buffer, 0, buffer.length);
                 String u = Integer.toString(buffer.length);
+                //byte[] buffer = u.getBytes();
+                //fos.write(buffer);
                 System.out.println(buffer.length);
-                System.out.println("The file2 has been rewrite");
+                System.out.println("The file2 has been rewrite and length = " + u);
             }
 
             catch(IOException ex){
@@ -64,7 +66,7 @@ public class File_out_in {
                 System.out.println(ex.getMessage());
             }
 
-        */
+
 //________________________________________________
       /*  String filePath = "D:/Frontend/frontend_wk/JavaAndroid/gr_336/in_out/notes2.txt";
           String uv = "khkhkgsh";

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06e508f-a1ce-453b-a78e-b30ed0b2ca11" name="Changes" comment="Решено лаболаторная №7 изм+">
-      <change afterPath="$PROJECT_DIR$/src/lab_8/File_out_in.java" afterDir="false" />
+    <list default="true" id="b06e508f-a1ce-453b-a78e-b30ed0b2ca11" name="Changes" comment="Решено лаболаторная №8 изм+">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_8/File_out_in.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_8/File_out_in.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Frontend/frontend_wk/JavaAndroid/gr_336/untitled_336_1",
+    "last_opened_file_path": "D:/Frontend/frontend_wk/JavaAndroid/gr_336/untitled_336_2",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -174,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651056837819</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Решено лаболаторная №8">
+      <created>1651220851077</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651220851077</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,6 +216,8 @@
     <MESSAGE value="Решено лаболаторная №6" />
     <MESSAGE value="Решено лаболаторная №7" />
     <MESSAGE value="Решено лаболаторная №7 изм+" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решено лаболаторная №7 изм+" />
+    <MESSAGE value="Решено лаболаторная №8" />
+    <MESSAGE value="Решено лаболаторная №8 изм+" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решено лаболаторная №8 изм+" />
   </component>
 </project>
