@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06e508f-a1ce-453b-a78e-b30ed0b2ca11" name="Changes" comment="Решено лаболаторная №8 изм+">
+    <list default="true" id="b06e508f-a1ce-453b-a78e-b30ed0b2ca11" name="Changes" comment="Решено задание по реализации интерфейса банкомата">
+      <change afterPath="$PROJECT_DIR$/src/Task_Investor/Deposits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_Investor/Investor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_Investor/Security.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_8/File_out_in.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_8/File_out_in.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Frontend/frontend_wk/JavaAndroid/gr_336/untitled_336_2",
+    "last_opened_file_path": "D:/Frontend/frontend_wk/JavaAndroid/gr_336/untitled_336_2/src/Task_Investor",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -47,13 +49,26 @@
       <recent name="D:\Frontend\frontend_wk\JavaAndroid\gr_336\untitled_336_2\src\lab_7\lab_Biblioteka" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.File_out_in">
+  <component name="RunManager" selected="Application.Deposits">
     <configuration name="Aspirant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab_6.Aspirant" />
       <module name="untitled_336_2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lab_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Deposits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_Investor.Deposits" />
+      <module name="untitled_336_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task_Investor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,19 +102,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_5.Person" />
-      <module name="untitled_336_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="University" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab_6.University" />
       <module name="untitled_336_2" />
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Deposits" />
         <item itemvalue="Application.File_out_in" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Aspirant" />
         <item itemvalue="Application.University" />
-        <item itemvalue="Application.Person" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651220851077</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Решено лаболаторная №8 +перезапись">
+      <created>1651222554618</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651222554618</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +227,8 @@
     <MESSAGE value="Решено лаболаторная №7 изм+" />
     <MESSAGE value="Решено лаболаторная №8" />
     <MESSAGE value="Решено лаболаторная №8 изм+" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решено лаболаторная №8 изм+" />
+    <MESSAGE value="Решено лаболаторная №8 +перезапись" />
+    <MESSAGE value="Решено задание по реализации интерфейса банкомата" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решено задание по реализации интерфейса банкомата" />
   </component>
 </project>
